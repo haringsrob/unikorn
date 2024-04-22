@@ -91,7 +91,7 @@ spec:
   - infrastructure
   versions:
   - version: v0.1.11
-    repo: https://unikorn-cloud.github.io/helm-cluster-api
+    repo: https://github.com/haringsrob/helm-cluster-api
     chart: cluster-api
     interface: 1.0.0
 ---
@@ -140,7 +140,7 @@ spec:
   - infrastructure
   versions:
   - version: v0.3.27
-    repo: https://unikorn-cloud.github.io/helm-cluster-api
+    repo: https://github.com/haringsrob/helm-cluster-api
     chart: cluster-api-cluster-openstack
     createNamespace: true
     interface: 1.0.0
