@@ -90,7 +90,7 @@ spec:
   tags:
   - infrastructure
   versions:
-  - version: main
+  - version: v0.1.12
     repo: https://github.com/haringsrob/helm-cluster-api
     path: charts/cluster-api
     interface: 1.0.0
@@ -139,7 +139,7 @@ spec:
   tags:
   - infrastructure
   versions:
-  - version: main
+  - version: v0.1.12
     repo: https://github.com/haringsrob/helm-cluster-api
     path: charts/cluster-api-cluster-openstack
     createNamespace: true
