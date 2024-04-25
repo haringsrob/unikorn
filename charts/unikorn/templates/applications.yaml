@@ -139,7 +139,7 @@ spec:
   tags:
   - infrastructure
   versions:
-  - version: v0.1.12
+  - version: v0.3.27
     repo: https://github.com/haringsrob/helm-cluster-api
     path: charts/cluster-api-cluster-openstack
     createNamespace: true
